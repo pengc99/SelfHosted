@@ -14,7 +14,7 @@
 |12|Alex <alex@maximum.guru>|
 |12|Ferdinand Mütsch <mail@ferdinand-muetsch.de>|
 |12|Pe46dro <pietro@marangon.me>|
-|9|Andrew Peng <pengc99@gmail.com>|
+|9|Andrew Peng|
 |9|Joubert RedRat <eu+github@redrat.com.br>|
 |9|Lance M <mightyfree@users.noreply.github.com>|
 |8|CooperBarrett <anthony.lhuissier@openmailbox.org>|
